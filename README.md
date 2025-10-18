@@ -1,4 +1,4 @@
-# 🎥 Projeto: O Futuro Começa com Coragem e Inspiração"
+# 🎥 Projeto: O Futuro Começa com Coragem e Inspiração — Vídeo Cinematográfico Criado com IA
 
 ## 📒 Descrição
 Este projeto foi desenvolvido como parte de um **desafio de Inteligência Artificial** promovido durante um treinamento da **DIO**.  
