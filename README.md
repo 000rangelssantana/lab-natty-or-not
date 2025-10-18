@@ -1,51 +1,54 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🎥 Projeto: O Futuro Começa com Coragem e Inspiração"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto foi desenvolvido como parte de um **desafio de Inteligência Artificial** promovido durante um treinamento da **DIO**.  
+O objetivo era criar um conteúdo original utilizando ferramentas de IA, podendo ser um eBook, áudio ou vídeo.  
+
+Escolhi produzir um **vídeo**, integrando diferentes inteligências artificiais para construir o roteiro, o texto, a narração e a validação da pronúncia da marca **DIO**, expressa de forma correta como **"Di-Ai-Ô"**.
+
+O projeto mostra na prática como as IAs podem colaborar entre si para criar resultados coerentes, criativos e alinhados à identidade de uma marca.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- **ChatGPT (OpenAI)** → para criação do roteiro, refinamento das falas e elaboração do prompt detalhado.
+- **Veo 3.1 (Gemini/Google)** → para geração do vídeo a partir do roteiro final.
+- **Google Translate** → para validação e ajuste da pronúncia correta de "DIO" como **"Di-Ai-Ô"**.
+- **Markdown** → para documentação do projeto em formato estruturado e visual.
+
+---
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+1. **Ideação e escolha do formato:**  
+   Optei por desenvolver um vídeo, pois permitiria integrar imagem, som e texto, mostrando o poder criativo das IAs de forma dinâmica.
+
+2. **Criação do roteiro no ChatGPT:**  
+   Descrevi o conceito principal do vídeo e solicitei ao ChatGPT que criasse um **prompt detalhado** baseado na minha ideia inicial.  
+   Em seguida, pedi ajustes progressivos até chegar ao tom, estilo e ritmo desejados.
+
+3. **Ajuste da pronúncia "DIO" → "Di-Ai-Ô":**  
+   Durante os testes de áudio, percebi que a fala da marca não estava correta.  
+   Usei o **Google Translate** como ferramenta de apoio fonético para garantir que a pronúncia fosse natural e fiel à intenção da marca.
+
+4. **Geração do vídeo com Veo 3.1 (Gemini):**  
+   Inserido o prompt final no **Veo 3.1**, a IA gerou automaticamente o vídeo com a narrativa e elementos visuais correspondentes ao roteiro aprovado.
+
+5. **Revisão e publicação:**  
+   Após os ajustes finais, o vídeo foi publicado e compartilhado via link do Gemini.
+
+---
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+📹 **Assista ao vídeo final aqui:**  
+🔗 [Clique para assistir no Gemini](https://gemini.google.com/share/41f30ab3a7cd)
 
-### Exemplos e Insigths
+---
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar algo "natty" (natural e autêntico) com IA é um desafio interessante — equilibrar **criatividade humana** com **automação inteligente** requer atenção aos detalhes e compreensão do contexto.  
+O aprendizado principal foi que **a IA é uma ferramenta de extensão criativa**, não um substituto.  
+O resultado final mostra que, quando bem direcionadas, as IAs podem colaborar para **expressar ideias humanas com estética e propósito.**
